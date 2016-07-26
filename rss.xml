@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Psychotherapie Kubin]]></title>
         <description><![CDATA[Psychotherapie Kubin]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/maria-kubin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jul 2016 17:42:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Jul 2016 17:42:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/maria-kubin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Ich freue mich, dass ich endlich dazu komme, das auszuprobieren!</p>]]></description>
+            <link>https://thegrid.ai/maria-kubin/ich-freue-mich-dass-ich-endlich-dazu-komme-das-auszuprobie/index.html</link>
+            <guid isPermaLink="false">b4ca628a-11bc-4f1a-ba91-44ae6b022538</guid>
+            <pubDate>Tue, 26 Jul 2016 17:42:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/382507db-9ba2-4a9e-bb90-6b12fde212bd.jpg" alt="" title="">]]></description>
-            <link>undefinedich-bin-sehr-neugierig-wie-es-wird/index.html</link>
+            <link>https://thegrid.ai/maria-kubin/ich-bin-sehr-neugierig-wie-es-wird/index.html</link>
             <guid isPermaLink="false">1e042540-0220-492b-9c5e-51ed85848de2</guid>
             <pubDate>Tue, 26 Jul 2016 17:42:20 GMT</pubDate>
         </item>
