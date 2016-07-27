@@ -11,15 +11,15 @@ description: >-
   Eigenschaften und Fähigkeiten? Das alles ist gut, aber es macht Menschen
   bewundernswert. Die kleinen Unvollkommenheiten sind es, die Menschen
   „menschlich“ machen – und das macht sie liebenswert! 
-datePublished: '2016-07-26T17:48:14.689Z'
-dateModified: '2016-07-26T17:48:04.417Z'
+datePublished: '2016-07-27T07:24:57.059Z'
+dateModified: '2016-07-26T17:48:23.120Z'
 title: ''
 author: []
 via: {}
+sourcePath: _posts/2016-07-26-du-bist--liebenswert-1.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: _posts/2016-07-26-du-bist--liebenswert-1.md
 url: du-bist--liebenswert-1/index.html
 _type: Article
 
